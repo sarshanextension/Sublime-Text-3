@@ -1,0 +1,13 @@
+[
+{
+	"caption": "Reg Replace: Remove All P's",
+	"command": "reg_replace",
+	"args": {
+		"replacements": [
+			"remove_opening_ps",
+			"remove_closing_ps",
+			"remove_name_saravanan"
+		]
+	}
+},
+]

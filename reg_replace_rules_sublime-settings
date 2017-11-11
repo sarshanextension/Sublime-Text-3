@@ -1,0 +1,23 @@
+{
+
+	"replacements": {
+		"remove_opening_ps": {
+			"find": "<p>",
+			"replace": "",
+			"greedy": true,
+			"case": false
+		},
+		"remove_closing_ps": {
+			"find": "</p>",
+			"replace": "",
+			"greedy": true,
+			"case": false	
+		},
+		"remove_name_saravanan": {
+			"find": "saravanan",
+			"replace": "",
+			"greedy": true,
+			"case": true	
+		}
+	}
+}
